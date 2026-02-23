@@ -1,0 +1,10 @@
+# Multi-Room File Sharing System - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required for basic functionality
+
+# Optional: For creating executable files
+pyinstaller>=5.0.0
+
+# Development dependencies (optional)
+pytest>=7.0.0  # For testing
+black>=22.0.0   # For code formatting
